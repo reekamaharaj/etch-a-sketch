@@ -1,0 +1,26 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width:  400px;
+}
+
+h1 {
+
+}
+
+.title {
+
+}
+
+.square {
+    display: flex;
+    background-color: gray;
+    /* width: 25px;
+    height: 25px; */
+    
+}
+
+.mouseover{
+    background-color: black;
+}
